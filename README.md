@@ -9,7 +9,7 @@ Base alpine image, with [asdf](https://asdf-vm.com/#/) and the following plugins
 installed:
 - nodejs
 - python
-- ruty
+- ruby
 
 ## Tags
 
