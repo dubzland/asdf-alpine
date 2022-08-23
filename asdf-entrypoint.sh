@@ -1,9 +1,5 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
-if [[ -f "$HOME/.asdf/asdf.sh" ]]; then
-	source $HOME/.asdf/asdf.sh
-fi
-
-set -- docker-entrypoint.sh "$@"
+set -- docker-entrypoint.sh asdf-exec.sh "$@"
 
 exec "$@"

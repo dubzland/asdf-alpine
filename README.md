@@ -14,6 +14,8 @@ installed:
 ## Tags
 
 - [1.0.0](https://git.dubzland.net/dubzland/asdf-alpine/blob/1.0.0/Dockerfile): Tracks upstream ([docker:20.10-git](https://github.com/docker-library/docker/blob/387e351394bfad74bceebf8303c6c8e39c3d4ed4/20.10/git/Dockerfile))
+- [1.0.1](https://git.dubzland.net/dubzland/asdf-alpine/blob/1.1.0/Dockerfile): Tracks upstream ([docker:20.10-git](https://github.com/docker-library/docker/blob/387e351394bfad74bceebf8303c6c8e39c3d4ed4/20.10/git/Dockerfile))
+
 
 ## License
 
