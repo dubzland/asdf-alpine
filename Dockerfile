@@ -15,7 +15,6 @@ LABEL org.label-schema.vcs-url="https://git.dubzland.net/dubzland/asdf-alpine/"
 
 ENV ASDF_DIR $asdf_dir
 ENV ASDF_DATA_DIR $asdf_data_dir
-ENV XDG_CACHE_HOME /work/.cache
 
 RUN apk add --no-cache \
 		bash \
